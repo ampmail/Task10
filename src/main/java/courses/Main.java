@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String casualAmountOfMoney = "100.0";
+        String casualAmountOfMoney = "1000.0";
         String result = "There are no profit!";
 
         try {
